@@ -1,0 +1,34 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1130): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1143): warning C4101: 'attemptCounter': unreferenced local variable
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1252): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1250): warning C4101: 'j': unreferenced local variable
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1266): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1264): warning C4101: 'j': unreferenced local variable
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1277): warning C4129: ' ': unrecognized character escape sequence
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1278): warning C4129: ' ': unrecognized character escape sequence
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1294): warning C4129: ' ': unrecognized character escape sequence
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1295): warning C4129: ' ': unrecognized character escape sequence
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1311): warning C4129: ' ': unrecognized character escape sequence
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1312): warning C4129: ' ': unrecognized character escape sequence
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1385): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1443): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1451): warning C4018: '>': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1465): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1483): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1737): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1753): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1773): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1839): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1908): warning C4101: 'number': unreferenced local variable
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(1977): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(2003): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(2020): warning C4101: 'idx': unreferenced local variable
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(2079): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(2086): warning C4101: 'change': unreferenced local variable
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(108): warning C4715: 'GeneralItemData::getItemTypeDef': not all control paths return a value
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(335): warning C4715: 'BorrowData::getItemTypeDef': not all control paths return a value
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(603): warning C4715: 'itemTypeInvert': not all control paths return a value
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(653): warning C4715: 'ItemData::getItemInfo1': not all control paths return a value
+c:\users\asus\source\repos\oop_project-finalform\oop_project-finalform\source.cpp(669): warning C4715: 'ItemData::getItemInfo2': not all control paths return a value
+  OOP_Project-FinalForm.vcxproj -> C:\Users\ASUS\source\repos\OOP_Project-FinalForm\Debug\OOP_Project-FinalForm.exe
